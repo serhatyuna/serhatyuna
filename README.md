@@ -20,6 +20,6 @@ I am a senior student at Dokuz Eylul University. I'm currently working on JavaSc
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serhatyuna&layout=compact&theme=radical "Top Langs")
 
 ### 📫 &nbsp;Reach me
-[![gmail](https://img.shields.io/badge/-serhat.yuna@ceng.deu.edu.tr-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:serhat.yuna@ceng.deu.edu.tr)
+[![gmail](https://img.shields.io/badge/-serhatyuna@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:serhatyuna@gmail.com)
 [![linkedin](https://img.shields.io/badge/-serhatyuna-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhatyuna/)
 [![twitter](https://img.shields.io/badge/-serhatyuna-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/serhatyuna)
